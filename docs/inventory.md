@@ -13,3 +13,18 @@
 | Microcontrollers | Arduino UNO, ESP32, ESP32-C5 | Sensors and telemetry |
 | Server | i3 laptop, 4 GB RAM, 1 TB HDD | Linux, monitoring |
 | Workstation | MacBook Pro M2 Pro | Administration and automation |
+
+## Server laptop
+
+| Item | Detail |
+| --- | --- |
+| Model | HP Pavilion x360 |
+| CPU | Intel Core i3, 8th generation |
+| RAM | 4 GB |
+| Storage | 1 TB HDD (SMART health: Healthy, 3191 power-on hours, 0 read/write errors) |
+| Planned OS | Ubuntu Server 24.04 LTS |
+| Role | Always-on lab server: Docker, monitoring, NetBox |
+| Network | Wi-Fi; wired link via USB Ethernet adapter (no built-in RJ45, to be confirmed) |
+| Known limits | HDD is slow; SSD and 8 GB RAM upgrade planned |
+
+*Resumen en español: laptop que será el servidor 24/7 del laboratorio; disco en buen estado, con mejora a SSD planeada.*
