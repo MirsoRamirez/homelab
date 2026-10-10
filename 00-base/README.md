@@ -7,11 +7,11 @@ Document the starting point of the lab and prepare the tools needed for the rest
 
 ## Tasks
 - [x] Back up the hAP ax lite (RouterOS 7.8)
-- [ ] Back up the L009
-- [ ] Record the current topology and addressing (see `docs/`)
-- [ ] Update RouterOS on both MikroTik devices
-- [ ] Install Linux and Docker on the lab server
-- [ ] Create the public and private GitHub repositories
+- [x] Back up the L009
+- [x] Record the current topology and addressing (see `docs/`)
+- [x] Update RouterOS on both MikroTik devices
+- [x] Install Linux and Docker on the lab server
+- [x] Create the public and private GitHub repositories
 
 ## Starting point
 - Triple NAT: ISP ONU, Reyee router and hAP edge router
