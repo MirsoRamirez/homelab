@@ -25,5 +25,5 @@ Escaneo de puertos desde mi Mac con `nc -z`: telnet (23), ftp (21) y www (80) ce
 - telnet y ftp envían contraseñas en texto plano; ssh las cifra.
 
 ## Pendiente
-- Revisar el servicio reverse-proxy (443), aún activo.
+- reverse-proxy (443) también deshabilitado en ambos routers.
 - Etapa 1B: firewall del hAP.
