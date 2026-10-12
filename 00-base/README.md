@@ -1,6 +1,6 @@
 # Phase 0: Foundation
 
-**Status:** In progress
+**Status:** Complete (2026-10-10)
 
 ## Goal
 Document the starting point of the lab and prepare the tools needed for the rest of the project.
@@ -19,4 +19,6 @@ Document the starting point of the lab and prepare the tools needed for the rest
 - The L009 only bridges ports
 
 ## Lessons learned
-(To be filled in)
+- Triple NAT (ISP ONU, Reyee router and hAP) made the lab harder to reason about; documented in `docs/troubleshooting/asymmetric-routing.md`.
+- A server with the wrong default gateway caused asymmetric routing: replies came back through a different router than the one that sent them, and the firewall dropped them.
+- Backups before every change made it safe to experiment.
