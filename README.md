@@ -6,13 +6,13 @@ Personal lab for practicing GPON access networks, MikroTik RouterOS 7 routing, m
 
 ## Phases
 
-| Phase | Folder | Status |
-| --- | --- | --- |
-| 0. Foundation | `00-base/` and `docs/` | In progress |
-| 1. ISP-style network | `01-network-isp/` | Pending |
-| 2. Real FTTH | `02-ftth/` | Pending |
-| 3. Monitoring | `03-monitoring/` | Pending |
-| 4. Automation and cloud | `04-automation-cloud/` | Pending |
-| 5. Cybersecurity | `05-security/` | Pending |
+| Phase                   | Folder                 | Status      |
+|-------------------------|------------------------|-------------|
+| 0. Foundation           | `00-base/` and `docs/` | Complete    |
+| 1. ISP-style network    | `01-network-isp/`      | In progress |
+| 2. Real FTTH            | `02-ftth/`             | Pending     |
+| 3. Monitoring           | `03-monitoring/`       | Pending     |
+| 4. Automation and cloud | `04-automation-cloud/` | Pending     |
+| 5. Cybersecurity        | `05-security/`         | Pending     |
 
 Hardware used: see [docs/inventory.md](docs/inventory.md).
